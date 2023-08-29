@@ -1,0 +1,10 @@
+// Grid containers
+//
+// Define the maximum width of `.container` for different screen sizes.
+
+$container-max-widths: (
+        sm: 100px,
+        md: 100px,
+        lg: 100px,
+        xl: 100px
+) !default;
