@@ -1,0 +1,116 @@
+body {
+  padding-top: 3.5rem;
+  font-family: lato;
+}
+button {
+  background-color:#ffffff;
+  border: 2px solid #134074;
+  color: #134074;
+  border-radius: .5rem;
+  font-family: lato;
+  font-weight:400;
+  overflow: hidden;
+}
+
+.iconbtn {
+  padding-right: 8px;
+  color: #8da9c4;
+}
+
+h1 {
+  font-family: lato;
+  font-weight:700;
+  color:#134074;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-family: lato;
+  margin-bottom: 2rem;
+  font-size: 2.25rem;
+  font-weight: 700;
+  color:#134074;
+  letter-spacing: .08rem;
+}
+
+h3 {
+  font-family: lato;
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-bottom: 1.25rem;
+}
+
+body {
+  font-family: lato;
+  font-weight:300;
+  color:#0b2545;
+  font-size: 1.40rem;
+}
+
+a {
+  color:#8da9c4;
+  font-weight: 700;
+  display: inline-block;
+}
+
+hr {
+  margin: 2.5rem;
+  border: 1px solid #8da9c4;
+}
+
+.card {
+  margin: 0 auto;
+  float: none;
+  border: 0px;
+}
+
+.card-title {
+  font-size: 1.75rem;
+  font-weight: 500;
+  line-height: 2.5rem;
+}
+
+.card-body {
+  margin-bottom: 2rem;
+}
+
+.author{
+  font-size: 1.25rem;
+  line-height: 2rem;
+}
+
+.smallbtn{
+  padding: .5rem .75rem .5rem .75rem;
+  margin-right: .75rem;
+  /* margin-bottom: .75rem;
+  margin-top: 1rem; */
+  background-color:#ffffff;
+  border: 1px solid #134074;
+  color: #134074;
+  border-radius: 25rem;
+  font-family: lato;
+  font-weight:400;
+  overflow: hidden;
+  font-size: 1rem;
+  letter-spacing: .05rem;
+}
+
+.largebtn {
+  padding: .5rem 1rem .5rem 1rem;
+  margin-right: 1rem;
+  margin-bottom: .75rem;
+  margin-top: 2rem;
+  background-color:#ffffff;
+  border: 2px solid #134074;
+  color: #134074;
+  border-radius: 25rem;
+  font-family: lato;
+  font-weight:400;
+  overflow: hidden;
+  font-size: 1.125rem;
+  letter-spacing: .125rem;
+}
+
+.press{
+  margin-right: 1rem;
+}
